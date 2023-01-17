@@ -11,7 +11,8 @@ class Bank:
     user_numbers = []
     def __init__(self):
        print("Welcome to xyz bank")
-       time.sleep(2)
+       print("")
+       time.sleep(3)
        print("------------------")
 
     def details(self):
